@@ -4,4 +4,4 @@
 
 This is a script to be executed in case of fire or any disaster it automatically loops through all your git directories (works only if your git projeccts are stored in one directory).
 
-### Please do not execute this script when you are on fire.
+### Please do not execute this script if you are on fire.
