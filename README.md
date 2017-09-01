@@ -5,10 +5,11 @@
 This is a script to be executed in case of fire or any disaster it automatically loops through all your git directories (works only if your git projeccts are stored in one directory).
 
 # Requirements
-* Linux
+* Linux/Windows
+* Bash
 * Git
 
-# Tested on the following Operating Systems
+# Tested Operating Systems
 * Ubuntu
 * Debian
 * Kali Linux
