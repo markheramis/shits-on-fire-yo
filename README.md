@@ -21,7 +21,7 @@ This is a script to be executed in case of fire or any disaster it automatically
 You can install this script by simply cloning this repository, you can do so with the command below
 ```bash
 cd /the/directory/you/want/to/install/this
-git@github.com:catalyst-technologies/shits-on-fire-yo.git
+git clone git@github.com:catalyst-technologies/shits-on-fire-yo.git
 cd shits-on-fire-yo
 sudo chmod 755 shits-on-fire-yo.sh
 ```
